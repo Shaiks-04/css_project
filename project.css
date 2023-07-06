@@ -91,8 +91,8 @@ font-size:35px;
     display: grid;
     grid-template-columns: auto auto auto;
     justify-content: center;    
-    row-gap: 10px;
-    column-gap: 10px;
+    row-gap: 25px;
+    column-gap: 25px;
     margin-top: 60px;
 }
 .conatiner{
@@ -112,7 +112,7 @@ font-size:35px;
     text-align: center;
 }
 .conatiner:hover{
-    box-shadow: 5px 5px 5px 5px;
+    box-shadow: 5px 5px 5px gray;
     border-color: rgba(124, 123, 123, 0.568);
 }
 .check{
